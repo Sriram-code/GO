@@ -1,0 +1,22 @@
+Slno	Objective	Description	Measurement criteria	Time lines
+				
+				
+Objective 4	Continuous Improvements	Develop new use cases for each offering	Five use cases	Per Month
+		Need to bring in  verticalization.	all use cases	Per quarter
+		Need to update / upgrade existing use cases	all use cases	
+				
+Objective 3	NextGen	Need to evaluate and bring in new tools.	Two tools	per year
+		Need to have one joint IP with tool partners.	One soltuion	per year
+				
+Objective 2	Thought Leadership and Culture building	Need to Create comparison matrix of tools in domain.	One release	Per quarter
+		Need to write wite paper on your specific domain one per year	One	Per year
+		Need to get 1 technical certificate per quarter.	One certificate	Per quarter
+		need to attend 1 soft skill per quarter.	One Training / certificate	Per quarter
+Objective 1	Presales & delivery support			
+		Need to support for RFP / Customer visit Demos	AS required	
+		Need to support in effort & sizing	AS required	
+				
+		Need to support in P1 cases	AS required	
+		Need to support in training	Need to enable training / video recordings	one per year
+		Need to enable documentation	need to update existing documentation	as per tool versions
+				
